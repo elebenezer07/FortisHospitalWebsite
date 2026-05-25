@@ -83,7 +83,7 @@ export default function FortisHospitalWebsite() {
           </div>
           <div>
             <h3 className="text-2xl font-bold mb-4">Contact</h3>
-            <p>Phone: +91 96868 60310</p>
+            <p>Phone: +91 8148899847</p>
             <p>Email: support@fortishospital.com</p>
           </div>
           <div>
